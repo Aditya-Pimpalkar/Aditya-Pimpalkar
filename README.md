@@ -35,7 +35,7 @@ I'm actively seeking opportunities for **Co-op/Internship roles** in **Software 
 
 ## My Stats
 <p>
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Aditya-Pimpalkar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Pimpalkar&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditya-Pimpalkar&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
