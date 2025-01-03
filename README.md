@@ -37,7 +37,7 @@ I'm actively seeking opportunities for **Co-op/Internship roles** in **Software 
 I'm always excited to collaborate with like-minded individuals in tech. Feel free to reach out to me! 😊  
 
 📧 **Email:** pimpalkar.aditya123@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/aditya-pimpalkar]((https://www.linkedin.com/in/aditya-pimpalkar-905b4417b/))  
+🔗 **LinkedIn:** [linkedin.com/in/aditya-pimpalkar](https://www.linkedin.com/in/aditya-pimpalkar-905b4417b/)  
 
 ---
 
