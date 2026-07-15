@@ -137,7 +137,7 @@ Kafka (KRaft mode) · PostgreSQL · MongoDB · MySQL · Elasticsearch · Redis �
 AWS (EC2, RDS, S3, VPC, Lambda, Bedrock, CloudWatch, IAM) · Google Cloud Run · Kubernetes · Helm · KEDA · Terraform · Docker · GitHub Actions · CI/CD
 
 **Certifications**  
-[AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/users/aditya-pimpalkar)
+[AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/users/aditya-sudhakar-pimpalkar/badges/credly)
 
 ---
 
